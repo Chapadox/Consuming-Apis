@@ -6,7 +6,7 @@
 
 <p>Projeto feito em um video tutorial da <strong>Rocketseat</strong></p>
 
-<p>Projeto de cosumir uma <strong>Api</strong>, tanto no <strong>Front-End</strong> quanto do <strong>Back-End</strong>.</p>
+<p>Projeto de cosumir uma <strong>Api</strong>, tanto no <strong>Front-End</strong> quanto no <strong>Back-End</strong>.</p>
 
 ##  Getting Started 🧪
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
